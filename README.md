@@ -1,3 +1,8 @@
+# Archived
+
+This repository contains AMBA as presented in the bachelor thesis that developed
+it. Development is continued in <https://github.com/lokegustafsson/amba>.
+
 # AMBA
 
 Automatic and Manual methods for Binary Analysis
